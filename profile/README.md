@@ -1,5 +1,5 @@
 <a href="https://mutant.revolt.chat">
-    <img src="./assets/banner.png" style="margin: 20px 0"></img>
+    <img src="https://github.com/mutant-remix/.github/raw/master/profile/assets/banner.png" style="margin: 20px 0"></img>
 </a>
 
 ## Join our communities
