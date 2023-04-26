@@ -14,6 +14,8 @@ You can also [build it yourself](https://github.com/mutant-remix/mutant-remix)
 - On [Revolt](https://revolt.chat) https://rvlt.gg/kcTDntf1
 
 ## Contributing
-Check out [the contributing guide](https://github.com/mutant-remix/.github/raw/master/profile/CONTRIBUTING.md) if you'd like to help us work on bringing more emojis to Mutant Remix.
+Check out the [contributing guide](https://github.com/mutant-remix/.github/raw/master/profile/CONTRIBUTING.md) if you'd like to help us work on bringing more emojis to Mutant Remix.
 
-![Unicode coverage](https://github.com/mutant-remix/.github/raw/master/profile/assets/coverage.svg)
+<a href="#">
+    <img src="https://github.com/mutant-remix/.github/raw/master/profile/assets/coverage.svg" style="width: 80%; background-color: white"></img>
+</a>
