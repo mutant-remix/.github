@@ -14,7 +14,7 @@ We encourage you to join our communities to discuss the changes you want to make
 - Emojis should follow the [design guidelines](https://github.com/mutant-remix/specification)
 
 ### Adding new emojis
-- Check the [coverage table](#) (WIP) to see what emojis are missing
+- Check the [coverage table](https://github.com/mutant-remix/coverage-report/blob/master/coverage.md) to see what emojis are missing
 - Clone the [assets repository](https://github.com/mutant-remix/assets)
 - Add your emojis to the `svg` directory and relevant metadata to the `manifest` directory
 - Open a pull request with your changes
