@@ -16,6 +16,6 @@ You can also [build it yourself](https://github.com/mutant-remix/mutant-remix)
 ## Contributing
 Check out the [contributing guide](https://github.com/mutant-remix/.github/blob/master/CONTRIBUTING.md) if you'd like to help us work on bringing more emojis to Mutant Remix.
 
-<a href="https://github.com/mutant-remix/coverage-report/blob/master/coverage.md">
-    <img src="https://raw.githubusercontent.com/mutant-remix/coverage-report/master/coverage.png" style="width: 80%; background-color: white"></img>
+<a href="https://github.com/mutant-remix/unicode-coverage/blob/master/coverage.md">
+    <img src="https://raw.githubusercontent.com/mutant-remix/unicode-coverage/master/coverage.png" style="width: 80%; background-color: white"></img>
 </a>
