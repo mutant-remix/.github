@@ -1,5 +1,5 @@
 <a href="https://mutant.revolt.chat">
-    <img src="https://github.com/mutant-remix/.github/raw/master/profile/assets/banner.png" style="margin: 20px 0"></img>
+    <img src="https://github.com/mutant-remix/.github/raw/master/assets/banner.png" style="margin: 20px 0"></img>
 </a>
 
 Mutant Remix is an emoji pack that brings a new twist to the good old emojis that have become a part of our daily conversations.
