@@ -5,7 +5,7 @@
 Mutant Remix is an emoji pack that brings a new twist to the good old emojis that have become a part of our daily conversations.
 
 ## Download
-You can download the [latest release here](https://mutant.revolt.chat/download)
+You can download the [latest release here](https://github.com/mutant-remix/mutant-remix/releases)
 
 You can also [build it yourself](https://github.com/mutant-remix/mutant-remix)
 
